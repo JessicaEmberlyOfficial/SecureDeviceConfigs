@@ -8,4 +8,4 @@ Please follow these steps accordingly:
 7. Go back to VPN Settings.
 8. Go to Auto-connect & Lockdown mode, and enable both options.
 
-LINK: https://f-droid.org/packages/net.mullvad.mullvadvpn/
+LINK: [Mullvad](https://f-droid.org/packages/net.mullvad.mullvadvpn/)
