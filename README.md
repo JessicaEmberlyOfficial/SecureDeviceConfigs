@@ -8,4 +8,5 @@ FirewallBlocks
 Invizible
 Mullvad
 OwnDroid
+Hail
 ```
