@@ -5,8 +5,8 @@ A list of secure device configs for security related apps.
 ```
 Canta
 FirewallBlocks
+Hail
 Invizible
 Mullvad
 OwnDroid
-Hail
 ```
