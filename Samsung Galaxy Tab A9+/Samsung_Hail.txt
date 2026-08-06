@@ -1,1 +1,0 @@
-["com.samsung.android.game.gos","com.android.vending","com.google.android.gsf","android.auto_generated_rro_product__","android.auto_generated_rro_vendor__"]
