@@ -4,6 +4,7 @@ A list of secure device configs for security related apps.
 ## Apps
 ```
 Canta
+Fauxx
 FirewallBlocks
 Hail
 Invizible
